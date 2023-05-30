@@ -1,0 +1,110 @@
+.privacy-policy {
+    margin-left: 20%;
+    margin-top : 2.5%;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-bottom: -50%;
+    /* align-items: center; */
+    text-align: justify;
+    background-color:aliceblue;
+    border-radius: 0.3rem;
+    border-color: black;
+    border-width: 0.05rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 1%;
+    border-style: solid;
+}
+
+/* css for footer starts */
+.footer{
+    background-color: #021a26;
+    height: 400px;
+    margin-top: 55%;
+    display: flex;
+}
+
+
+/* css for about us starts */
+.about-us{
+    margin-top: 3%;
+    /* background-color: #e20930; */
+    width: 33%;
+    height: 70%;
+}
+
+.links>a{
+  text-decoration: none;
+  display: flow-root;
+  color: #f3fcf6;
+  margin-left: 20%;
+  margin-top: 3%;
+  /* background-color: #e20930; */
+ 
+}
+.heading-about-us>h2{
+    color: #f3fcf6;
+    margin-left: 20%;
+    padding-top: .5rem;
+    /* margin-bottom: 5%; */
+    /* margin-top: 5%; */
+    /* background-color: #0076de; */
+}
+/* css for about us ends */
+
+
+
+/* css for job seekers starts */
+.Job-Seekers{
+    margin-top: 3%;
+    /* background-color: #e20930; */
+    width: 33%;
+    height: 70%;
+}
+
+.links-of-jobseekers>a{
+  text-decoration: none;
+  display: flow-root;
+  color: #f3fcf6;
+  margin-left: 20%;
+  margin-top: 3%;
+  /* background-color: #e20930; */
+ 
+}
+.heading-job-seekers>h2{
+    color: #f3fcf6;
+    margin-left: 20%;
+    padding-top: .5rem;
+    /* margin-bottom: 5%; */
+    /* margin-top: 5%; */
+    /* background-color: #0076de; */
+}
+/* css for job seekers ends */
+    
+
+/* css for employers starts */
+.employers{
+    margin-top: 3%;
+    /* background-color: #e20930; */
+    width: 33%;
+    height: 70%;
+}
+
+.links-of-employers>a{
+  text-decoration: none;
+  display: flow-root;
+  color: #f3fcf6;
+  margin-left: 20%;
+  margin-top: 3%;
+  /* background-color: #e20930; */
+ 
+}
+.heading-employers>h2{
+    color: #f3fcf6;
+    margin-left: 20%;
+    padding-top: .5rem;
+    /* margin-bottom: 5%; */
+    /* margin-top: 5%; */
+    /* background-color: #0076de; */
+}
+/* css for employers ends */
+/* css for footer ends */

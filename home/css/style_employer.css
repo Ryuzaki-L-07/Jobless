@@ -1,0 +1,46 @@
+
+.hot-jobs-container {
+    width: 85%;
+    height: auto !important;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 0.3rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.post-job {
+    margin-top: 5%;
+    color: blue;
+    background-color: red;
+}
+
+.submit {
+    margin-left: 45%;
+}
+
+
+.submit {
+    text-align: center;
+}
+.submit{
+    height: 40px;
+    width: 100px;
+    font-size: larger;
+    background-color: green;
+    color: white;
+}
+
+.job {
+    margin-left: 4%;
+    /* display:flex; */
+    margin-top: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    
+}
+.hot-jobs-title {
+    margin-left: 4%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    
+}
